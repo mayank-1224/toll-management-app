@@ -61,7 +61,7 @@ const VehicleEntries = ({ entries, tollData }) => {
         <StyledSelect
           style={{
             width: "100px",
-            height: "40px",
+            height: "45px",
           }}
           onChange={(e) => {
             handleFilter(e);
